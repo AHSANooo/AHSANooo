@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Muhammad Ahsan
 🎓 **BS Computer Science** @ FAST-NUCES Islamabad <br>
 ⚡ **Core Engineering Principles:** Output | Optimization | Dynamic | Scalability | Modularity
